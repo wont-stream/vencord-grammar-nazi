@@ -27,6 +27,7 @@ let dictionary = {
   wheres: "where's",
   whos: "who's",
   itll: "it'll",
+  heres: "here's",
 
   imo: "in my opinion",
   idk: "I don't know",
