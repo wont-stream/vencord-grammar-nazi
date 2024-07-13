@@ -44,6 +44,7 @@ let dictionary = {
   asf: "as fuck",
   smth: "something",
   np: "no problem",
+  fav: "favorite",
 
   github: "GitHub",
   youtube: "YouTube",
