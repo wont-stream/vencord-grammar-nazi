@@ -41,6 +41,10 @@ let dictionary = {
   tysm: "thank you so much",
   wtf: "what the fuck",
   tf: "the fuck",
+
+  github: "GitHub",
+  youtube: "YouTube",
+  discord: "Discord",
 };
 
 export { dictionary };
