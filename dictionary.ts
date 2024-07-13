@@ -41,6 +41,9 @@ let dictionary = {
   tysm: "thank you so much",
   wtf: "what the fuck",
   tf: "the fuck",
+  asf: "as fuck",
+  smth: "something",
+  np: "no problem",
 
   github: "GitHub",
   youtube: "YouTube",
