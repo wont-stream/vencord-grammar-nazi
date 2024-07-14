@@ -64,6 +64,11 @@ let dictionary = {
   github: "GitHub",
   youtube: "YouTube",
   discord: "Discord",
+
+  js: "JavaScript",
+  javascript: "JavaScript",
+  css: "CSS",
+  html: "HTML",
 };
 
 export { dictionary };
