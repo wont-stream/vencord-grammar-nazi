@@ -59,6 +59,7 @@ let dictionary = {
   bbl: "be back later",
   omw: "on my way",
   tmi: "too much information",
+  blv: "believe",
 
   github: "GitHub",
   youtube: "YouTube",
